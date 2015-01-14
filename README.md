@@ -41,3 +41,7 @@ if !ok {
 	// cast object to its real type and do something with it...
 }
 ```
+
+## License
+
+BSD
